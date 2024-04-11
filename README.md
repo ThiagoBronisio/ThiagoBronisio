@@ -1,7 +1,7 @@
 - 👋 Olá, me chamo Thiago Bronisio
-- 🧑🏽‍💻 Atualmente estou cursando análise e desenvolvimento de sistema.
+- 🧑🏽‍💻 Atualmente estou cursando Análise e Desenvolvimento de Sistema.
 - 💪🏽 Estudando com foco para me aprimorar na área de front-end.
-- 🤩 Atualmente estou aprendendo | REACT.JS | JavaScript | BOOTSTRAP | CSS | HTML
+- 🤩 Atualmente estou aprendendo | React Js | JavaScript | BootStrap | CSS | HTML | Tailwind
 
 <!---
 ThiagoBronisio/ThiagoBronisio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
