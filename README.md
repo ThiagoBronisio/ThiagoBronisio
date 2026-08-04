@@ -2,7 +2,7 @@
 
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-1f2937?style=flat-square)
 
-Full Stack Developer with 2+ years of experience building enterprise systems and integrations using **.NET, C#, JavaScript, Vue.js and PostgreSQL**.
+Full Stack Developer with 2+ years of experience building enterprise systems and integrations using **.NET, C#, SQL, MongoDB, PostgreSQL, Typescript and Vue.js**.
 
 Experienced in the development of **REST APIs, background workers, microservices, geolocation solutions, telemetry systems and high-volume data processing**.
 
