@@ -1,4 +1,4 @@
-# 🔗 Thiago Bronisio
+# Thiago Bronisio
 
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-1f2937?style=flat-square)
 
