@@ -1,18 +1,20 @@
-# 👋 Olá! Eu sou o Thiago Bronisio
+# 🔗 Thiago Bronisio
 
-💻 Desenvolvedor de Sistemas com foco em **Full Stack Development**
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-1f2937?style=flat-square)
 
-🚀 Atualmente atuo profissionalmente desenvolvendo soluções utilizando **.NET, C#, APIs REST, JavaScript e bancos de dados relacionais**, participando de todo o ciclo de desenvolvimento — da arquitetura até a entrega em produção.
+Full Stack Developer with 2+ years of experience building enterprise systems and integrations using **.NET, C#, JavaScript, Vue.js and PostgreSQL**.
 
-🧠 Tenho grande interesse em **arquitetura de software, microserviços, geolocalização, dashboards de dados e integrações entre sistemas**.
+Experienced in the development of **REST APIs, background workers, microservices, geolocation solutions, telemetry systems and high-volume data processing**.
 
-🛠️ Tecnologias e ferramentas que utilizo no dia a dia:
+Currently focused on scalable software architectures, system integrations and reliable solutions for production environments.
 
-- Backend: **C# | .NET | ASP.NET | Entity Framework**
-- Frontend: **JavaScript | Vue.js | React**
-- Banco de dados: **SQL Server | PostgreSQL**
-- Outros: **REST APIs | Git | Docker | Arquitetura em Camadas**
+<br>
 
-📚 Formado em **Análise e Desenvolvimento de Sistemas**, sempre buscando evoluir e construir soluções que gerem impacto real.
+## 🧰 Languages and Tools
 
-⭐ Sempre aprendendo, construindo e evoluindo como desenvolvedor.
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,vue,react,postgres,docker,git,github,visualstudio,vscode&theme=dark"
+    alt="Languages and tools"
+  />
+</p>
